@@ -2,6 +2,6 @@
 Vidflix Application
 
 # Download
-https://drive.google.com/file/d/1QijieSM11EvQktz-85JTWEy8XcCM2Qz6/view?usp=sharing
+Download Link : https://drive.google.com/file/d/1QijieSM11EvQktz-85JTWEy8XcCM2Qz6/view?usp=sharing
 
-![qrcode_7784213_](https://user-images.githubusercontent.com/95560640/148181077-6386f405-24da-4aa7-abdb-a1b6d4885b93.png)
+QR Code : ![qrcode_7784213_](https://user-images.githubusercontent.com/95560640/148181217-10cf79d3-7d8a-4f08-9c01-adc651a592cc.png)
